@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @NatalyaNunes
-- 👀 I’m interested in front-end
 - :books: I'm a student of UFRN
 - 📫 How to reach me: E-mail nunes.natalya23@gmail.com
 
