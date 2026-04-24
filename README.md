@@ -44,9 +44,3 @@ Desenvolvedora Web Full Stack em formação pela **UFRN** e técnica pelo **IFRN
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatalyaNunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalyaNunes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
----
-
-### 📫 Vamos nos conectar?
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nunes.natalya23@gmail.com)
